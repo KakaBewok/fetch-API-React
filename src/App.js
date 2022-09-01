@@ -9,7 +9,7 @@ const App = () => {
 
   // styling dasar
   const styleBasic = {
-    width: "50%",
+    width: "70%",
     margin: "50px auto",
     fontFamily: "calibri",
     color: "black",
